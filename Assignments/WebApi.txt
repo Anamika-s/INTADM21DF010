@@ -1,0 +1,26 @@
+Create Web Api
+ 
+1. Author
+ 
+AuthorID
+FName
+LName
+Genre
+
+2. Book 
+
+BookID
+BookName
+PublishedAt
+
+One Author can write multiple books, One book can be written by one Author only
+
+How will you link them
+Add Relationships using FluentApi
+
+Write all Methods for (CRUD)
+
+Test them  in PostMan
+
+How will other deveolpers will come to know about Methods available in your Web Api
+
